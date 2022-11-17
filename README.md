@@ -23,7 +23,7 @@ This application was developed during the Bootcamp: <spabn>Orange Tech +</span> 
 
 ## ▶ Preview
 
-[![Deploy with Vercel](https://vercel.com/button)](https://calculator-xandowski.vercel.app/)
+[![Deploy with Vercel](https://vercel.com/button)](https://dio-calculadora-xandowski.vercel.app/)
 
 ## 📃 About
 
